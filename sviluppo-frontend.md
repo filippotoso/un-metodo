@@ -35,7 +35,7 @@ Il risultato finale sarà una serie di file HTML, CSS e JS (eventualmente). Ques
 	/assets
 		/assets/css
 		/assets/js
-		/assets/img	
+		/assets/img
 	/includes
 		/includes/elements
 		/includes/components
@@ -62,7 +62,7 @@ Il primo step è analizzare tutte le layout del sito e:
 - individuare i singoli componenti ripetuti (es. box rating);
 - individuare i singoli elementi tipografici (es. titoli, paragrafi, liste).
 
-# Sviluppo Wireframe 
+# Sviluppo Wireframe
 
 Realizzare la struttura delle singole pagine inserendo nel file *structure.css* le sole classi che definiscono la struttura. Utilizzando un framework CSS il numero di classi personalizzate dovrebbe essere limitato al massimo.
 
@@ -125,7 +125,7 @@ Il tutto cercando sempre di utilizzare le classi già esistenti (es. quelle offe
 
 # Sviluppo Componenti
 
-In questa fase, inserire nel file *components.css* le sole classi che si riferiscono ai componenti ripetuti. 
+In questa fase, inserire nel file *components.css* le sole classi che si riferiscono ai componenti ripetuti.
 
 Ogni componente dovrebbe avere un nome univoco, auto-esplicativo e prefissato da una breve stringa per evitare collisioni. Ad esempio, per il progetto Mario Rossi il prefisso potrebbe essere *"mr-"* (es. mr-slider) e per Acme Inc potrebbe essere *"ai-"* (es. ai-footer) e così via.
 
@@ -154,11 +154,11 @@ In linea generale, sarebbe sempre meglio che ogni componente e macro elemento si
 
 # Integrazione Contenuti nelle Layout
 
-In questa fase, utilizzando una tecnologia server side, i componenti, i macro elementi e il resto dei contenuti vanno inseriti all’interno delle layout wireframe delle pagine realizzate. 
+In questa fase, utilizzando una tecnologia server side, i componenti, i macro elementi e il resto dei contenuti vanno inseriti all’interno delle layout wireframe delle pagine realizzate.
 
 È fondamentale che il codice HTML non venga semplicemente copiato all’interno delle layout perché questo aumenterebbe inutilmente il carico di lavoro degli sviluppatori backend e incrementerebbe il rischio di introdurre errori dovuti al lavoro manuale.
 
-Per sviluppare nel modo più performante possibile è consigliabile utilizzare un web server locale (per evitare il continuo upload dei file). Se non hai un server a tua disposizione, più in basso troverai le istruzioni per scaricarne uno per le attività di sviluppo. 
+Per sviluppare nel modo più performante possibile è consigliabile utilizzare un web server locale (per evitare il continuo upload dei file). Se non hai un server a tua disposizione, più in basso troverai le istruzioni per scaricarne uno per le attività di sviluppo.
 
 All’interno della sua document root (es. *public_html*) creiamo una cartella per il progetto dove metteremo tutti i file del nostro progetto.
 
@@ -177,11 +177,11 @@ Nei file di layout, invece di incollare i vari codici (elementi, componenti e co
 
 In questo modo, a prescindere dal numero di pagine che contiene elementi comuni (es. barra di navigazione, sidebar, etc.), tra tutti i file del progetto ve ne sarà sempre e solo una versione. Inoltre, qualsiasi modifica fatta a quella singola istanza sarà automaticamente visibile in tutte le pagine che la includono.
 
-Nella fase di inserimento dei contenuti poi tenere sotto controllo a situazione semplicemente salvando il file e digitando CTRL + F5 nella finestra del browser. Questa si aggiornerà cancellando la cache e mostrando la modifica apportata. 
+Nella fase di inserimento dei contenuti poi tenere sotto controllo a situazione semplicemente salvando il file e digitando CTRL + F5 nella finestra del browser. Questa si aggiornerà cancellando la cache e mostrando la modifica apportata.
 
 # Server di Sviluppo
 
-Se non disponi di un server di sviluppo, puoi trovarne uno stand-alone a questo indirizzo (TODO).
+Se non disponi di un server di sviluppo, puoi trovarne uno stand-alone a questo indirizzo: [https://github.com/filippotoso/frontend-server](https://github.com/filippotoso/frontend-server)
 
 Una volta scaricato l’archivio ed estrattone il contenuto, è sufficiente che copi all’interno della cartella *public_html* i file del progetto ed esegui lo script *server.bat*. Una volta fatto ciò, il tuo browser di default si aprirà automaticamente mostrando la lista dei file (o il file index.htm, etc.) a cui potrai accedere cliccando sui relativi link.
 
