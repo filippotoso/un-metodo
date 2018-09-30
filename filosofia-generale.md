@@ -4,13 +4,13 @@ In questo documento definiamo una *filosofia generale* su come qualsiasi attivit
 
 # Obiettivo Strategico
 
-L'obiettivo strategico di questa *folosofia* è semplice: 
+L'obiettivo strategico di questa *folosofia* è semplice:
 
-> Ottenere il massimo dei risultati con il minimo sforzo, nel minor tempo possibile e al più basso costo possibile.
+> *Ottenere il massimo dei risultati con il minimo sforzo, nel minor tempo possibile e al più basso costo possibile.*
 
 # Postulati
 
-Per raggiungere questo obiettivo, dobbiamo tenere a mente questi postulati chiave: 
+Per raggiungere questo obiettivo, dobbiamo tenere a mente questi postulati chiave:
 
 - Gli errori riducono i risultati, aumentano gli sforzi, allungano i tempi e incrementano i costi.
 - Un progetto raffazzonato ha dei costi di mantenimento esponenzialmente proporzionali alla sua complessità.
@@ -18,7 +18,7 @@ Per raggiungere questo obiettivo, dobbiamo tenere a mente questi postulati chiav
 - Riprendere in mano un progetto incompiuto richiede molti più sforzi di completarlo in un’unica sequenza di attività.
 - 10 minuti dedicati all’analisi fanno risparmiare almeno 2 ore di implementazione.
 
-# Obiettivi Generali 
+# Obiettivi Generali
 
 Gli obiettivi generai di questa *filosofia* sono:
 
