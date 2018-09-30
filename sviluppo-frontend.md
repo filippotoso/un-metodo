@@ -51,7 +51,7 @@ I file sono suddivisi come segue:
 - */includes/components*: singoli componenti (uno per file);
 - */includes/contents*: singoli blocchi di contenuto editoriale (uno per file);
 
-Per comodità puoi scaricare questo mockup (TODO) per partire con il piede giusto.
+Per comodità puoi scaricare questo mockup per partire con il piede giusto: [https://github.com/filippotoso/frontend-template](https://github.com/filippotoso/frontend-template)
 
 # Workflow Dettagliato
 
