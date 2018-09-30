@@ -116,7 +116,7 @@ Scrivere una cosa tipo:
 ```
 
 ```html
-<h1 class="bi-blue-title bi-margin-top-large>Hello World!</h1>
+<h1 class="bi-blue-title bi-margin-top-large">Hello World!</h1>
 ...
 <h1 class="bi-blue-title bi-margin-top-medium">Hello World!</h1>
 ```
