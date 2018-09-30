@@ -185,6 +185,11 @@ Se non disponi di un server di sviluppo, puoi trovarne uno stand-alone a questo 
 
 Una volta scaricato l’archivio ed estrattone il contenuto, è sufficiente che copi all’interno della cartella *public_html* i file del progetto ed esegui lo script *server.bat*. Una volta fatto ciò, il tuo browser di default si aprirà automaticamente mostrando la lista dei file (o il file index.htm, etc.) a cui potrai accedere cliccando sui relativi link.
 
+# Revisione degli stili
+
+L'ultimo step del processo di sviluppo è quello di effettuare una revisione di tutti gli stili per assicurarsi che layout, componenti ed elementi ripetuti si armonizzino correttamente.
+In questa fase è importante ricordarsi di mantenere la corretta separazione degli stili (ogni modifica / aggiunta deve essere fatta nel giusto file) utilizzando il file *custom.css* solo come ultima spiaggia.
+
 # Inclusione CSS
 
 Nel sito finito, l’inclusione dei file CSS avverrà nel seguente ordine:
