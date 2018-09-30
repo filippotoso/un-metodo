@@ -8,10 +8,19 @@ Questo perchè...
 
 > “Un metodo è meglio di nessun metodo”
 
+La maggior parte delle aziende non formalizza le proprie metodologie e questo le rende
+suscettibili di continuare a ripetere gli stessi errori ancora e ancora
+
+La maggior parte degli sviluppatori ha un proprio metodo che però spesso rimante *implicito*
+ovvero non viene messo per iscritto, rivisto e raffinato con il tempo. Questo porta alla
+cristallizzazione di comportamenti poco efficienti e riduce le capacità di ottenere
+performance desiderate.
+
 ## Metodi Disponibili
 
-Per il momento è presente un solo metodo. Con il tempo spero di riuscire a crearne di nuovi:
+Per il momento sono presenti solo un paio di documenti ma con il tempo spero di riuscire a crearne di nuovi:
 
+- [Filosofia Generale](filosofia-generale.md)
 - [Sviluppo Frontend](sviluppo-frontend.md)
 
 Buono sviluppo,
