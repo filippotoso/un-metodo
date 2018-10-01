@@ -1,6 +1,6 @@
 # Filosofia Generale
 
-In questo documento definiamo una *filosofia generale* su come qualsiasi attività di sviluppo (ma non solo).
+In questo documento definiamo una *filosofia generale* da seguire in qualsiasi attività di sviluppo (ma non solo).
 
 # Obiettivo Strategico
 
@@ -10,30 +10,34 @@ L'obiettivo strategico di questa *folosofia* è semplice:
 
 # Postulati
 
-Per raggiungere questo obiettivo, dobbiamo tenere a mente questi postulati chiave:
+Per raggiungere questo obiettivo, dobbiamo tenere a mente questi postulati chiave.
 
-- Gli errori riducono i risultati, aumentano gli sforzi, allungano i tempi e incrementano i costi.
-- Un progetto raffazzonato ha dei costi di mantenimento esponenzialmente proporzionali alla sua complessità.
-- Fallo giusto la prima volta.
-- Riprendere in mano un progetto incompiuto richiede molti più sforzi di completarlo in un’unica sequenza di attività.
-- 10 minuti dedicati all’analisi fanno risparmiare almeno 2 ore di implementazione.
+> Gli errori riducono i risultati, aumentano gli sforzi, allungano i tempi e incrementano i costi.
+
+> Un progetto raffazzonato ha dei costi di mantenimento esponenzialmente proporzionali alla sua complessità.
+
+> Fallo giusto la prima volta.
+
+> Riprendere in mano un progetto incompiuto richiede molti più sforzi di completarlo in un’unica sequenza di attività.
+
+> 10 minuti dedicati all’analisi fanno risparmiare almeno 2 ore di implementazione.
 
 # Obiettivi Generali
 
 Gli obiettivi generai di questa *filosofia* sono:
 
-- avere costantemente a disposizione un piano con i prossimi step;
-- tracciare tutte le attività che vengono svolte;
-- mantenere una memoria storia del progetto;
-- minimizzare il rischio di errori.
+- avere costantemente a disposizione un piano con i prossimi step
+- tracciare tutte le attività che vengono svolte
+- mantenere una memoria storica del progetto
+- minimizzare il rischio di errori
 
 # Gestione Progetti
 
 Per fare ciò è necessario utilizzare un tool di gestione progetti per tutte le comunicazione che includono:
 
-- attività da svolgere: task e tasklist;
-- informazioni da ottenere: messaggi (es. domande del cliente);
-- informazioni da ricordare: notebook (es. checklist, risposte del cliente, scelte fatte).
+- attività da svolgere: task e tasklist
+- informazioni da ottenere: messaggi (es. domande del cliente)
+- informazioni da ricordare: notebook (es. checklist, risposte del cliente, scelte fatte)
 
 Per ogni progetto, dovremmo creare:
 
@@ -46,4 +50,4 @@ Per ogni progetto, dovremmo creare:
 - Checklist Produzione
 - Notebook Memoria Storica
 
-Creare un template conn questi elementi all-interno del sistema di gestione di progetti è il modo migliore per assicurarsi di partire con il piede giusto.
+Creare un template con questi elementi all-interno del sistema di gestione di progetti è il modo migliore per assicurarsi di partire con il piede giusto.

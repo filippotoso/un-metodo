@@ -23,5 +23,5 @@ Dove example.com è il proprio dominio aziendale o un dominio registrato ad-hoc 
 
 Per i progetti che richiedono solo ambiente di sviluppo e produzione separati (es. relativamente piccoli siti WordPress), creare:
 
--  Un account cPanel: {progetto}.example.com
+- Un account cPanel: {progetto}.example.com
 - Un sottodominio dev.{progetto}.example.com
