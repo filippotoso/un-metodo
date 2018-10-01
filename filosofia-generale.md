@@ -27,6 +27,8 @@ Gli obiettivi generai di questa *filosofia* sono:
 - mantenere una memoria storia del progetto;
 - minimizzare il rischio di errori.
 
+# Gestione Progetti
+
 Per fare ciò è necessario utilizzare un tool di gestione progetti per tutte le comunicazione che includono:
 
 - attività da svolgere: task e tasklist;
