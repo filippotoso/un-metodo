@@ -16,12 +16,20 @@ ovvero non viene messo per iscritto, rivisto e raffinato con il tempo. Questo po
 cristallizzazione di comportamenti poco efficienti e riduce le capacità di ottenere
 performance desiderate.
 
-## Metodi Disponibili
+# Metodi Disponibili
 
-Per il momento sono presenti solo un paio di documenti ma con il tempo spero di riuscire a crearne di nuovi:
+Per il momento sono presenti solo un paio di documenti ma con il tempo spero di riuscire a crearne di nuovi.
+
+*Documenti Fondamentali*
 
 - [Filosofia Generale](filosofia-generale.md)
-- [Sviluppo Frontend](sviluppo-frontend.md)
+
+*Processi e Checklist*
+
+- [Sviluppo e Delivery](processi/sviluppo-e-delivery.md)
+- [Sviluppo Frontend](processi/sviluppo-frontend.md)
+- [Shortcode WordPress](processi/shortcode-wordpress.md)
+- [Checklist Generale](processi/checklist-generale.md)
 
 Buono sviluppo,
 Filippo Toso
