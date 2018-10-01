@@ -1,6 +1,6 @@
 # Checklist Generale
 
-**Midifiche Sistemistiche**
+**Modifiche Sistemistiche**
 Prima di fare una modifica sistemistica, verificare la checklist di produzione e agire di conseguenza.
 
 **Memoria Storica**
