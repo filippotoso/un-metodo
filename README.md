@@ -32,4 +32,5 @@ Per il momento sono presenti solo un paio di documenti ma con il tempo spero di 
 - [Checklist Generale](processi/checklist-generale.md)
 
 Buono sviluppo,
+
 Filippo Toso
