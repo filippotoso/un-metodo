@@ -9,12 +9,12 @@ Questo perchè...
 > “Un metodo è meglio di nessun metodo”
 
 La maggior parte delle aziende non formalizza le proprie metodologie e questo le rende
-suscettibili di continuare a ripetere gli stessi errori ancora e ancora
+suscettibili a ripetere gli stessi errori ancora e ancora.
 
-La maggior parte degli sviluppatori ha un proprio metodo che però spesso rimante *implicito*
-ovvero non viene messo per iscritto, rivisto e raffinato con il tempo. Questo porta alla
-cristallizzazione di comportamenti poco efficienti e riduce le capacità di ottenere
-performance desiderate.
+D'altro canto, la maggior parte degli sviluppatori ha un proprio metodo che però solitamente
+rimante *implicito* ovvero non viene messo per iscritto, rivisto e raffinato con il tempo.
+Questo porta alla cristallizzazione di comportamenti poco efficienti e riduce le capacità
+di ottenere le performance desiderate.
 
 # Metodi Disponibili
 
